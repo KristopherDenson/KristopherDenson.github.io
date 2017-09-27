@@ -56,3 +56,10 @@ a {
 
 #main {
   padding: 50px; }
+
+h1 {
+  color:pink;
+font-size: 4em;
+border: 1px solid purple;
+}
+

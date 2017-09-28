@@ -54,12 +54,26 @@ a {
   a:hover {
     color: #009ce0; }
 
+#profilePic{
+  border-radius: 8px;
+}
+
+#topContainer {
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+
+}
+
+#profileName {
+  color:red;
+  font-size: 4em;
+  border: 1px solid purple;
+  text-align: center;
+}
+
 #main {
   padding: 50px; }
 
-h1 {
-  color:pink;
-font-size: 4em;
-border: 1px solid purple;
-}
+
 
